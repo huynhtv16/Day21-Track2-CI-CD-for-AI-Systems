@@ -1,3 +1,4 @@
+# Step 3: train_phase1.csv now includes train_phase2.csv.
 outs:
 - md5: 64c88e83d8d5f141465393fd9b5d9e73
   size: 362071
