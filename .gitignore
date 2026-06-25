@@ -1,5 +1,6 @@
 mlflow.db
 mlartifacts/
+mlruns/
 models/
 outputs/
 data/train_phase1.csv
@@ -7,6 +8,9 @@ data/eval.csv
 data/train_phase2.csv
 sa-key.json
 .env
+.aws-bucket-name
+.aws-setup.env
+aws-github-actions-credentials.json
 .venv/
 __pycache__/
 *.pyc
